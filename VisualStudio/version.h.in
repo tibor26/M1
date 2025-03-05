@@ -1,0 +1,4 @@
+#define VERSION_NUMBER          "@VERSION_NUMBER@"
+#define VERSION_OFFSET          "@VERSION_OFFSET@"
+#define VERSION_COMMIT          "@VERSION_COMMIT@"
+#define VERSION_DATE            "@VERSION_DATE@"

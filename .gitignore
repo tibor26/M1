@@ -1,0 +1,19 @@
+# Visual Studio
+VisualStudio/VisualGDB/
+VisualStudio/.vs/
+VisualStudio/.visualgdb/VisualGDBCache/
+VisualStudio/.visualgdb/CodeDB/
+VisualStudio/.visualgdb/CodeExplorer/NodeFlags.dat
+VisualStudio/*.user
+VisualStudio/version.h
+
+*.bin
+*.hex
+*.csv
+*.png
+
+# STM32CubeIDE
+Debug/
+Release/
+.settings/
+mx.scratch
